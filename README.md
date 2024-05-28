@@ -1,6 +1,5 @@
-# CosmosDBFleetAnalyticsPreview
+# Cosmos DB Fleet Analytics Preview
 
-# Cosmos DB Fleet Analytics
 Below find sample queries to help you navigate your Cosmos DB Fleet Analytics data.
 
 ### **Transactions Per Dollar**
